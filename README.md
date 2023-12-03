@@ -1,4 +1,4 @@
-****Exploratory Data Analysis (EDA)**** is a crucial step for data scientists to delve into datasets, unravel insights, and summarize key characteristics, often leveraging data visualization techniques. As an aspiring Data Scientist, I've conducted an EDA on a dataset containing information about employees at ABC company. Let's outline the steps involved:
+***Exploratory Data Analysis (EDA)*** is a crucial step for data scientists to delve into datasets, unravel insights, and summarize key characteristics, often leveraging data visualization techniques. As an aspiring Data Scientist, I've conducted an EDA on a dataset containing information about employees at ABC company. Let's outline the steps involved:
 
 **Step 1: Import Python Libraries**
 Import all necessary libraries for data loading, statistical analysis, visualizations, data transformations, merges, and joins.
